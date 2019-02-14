@@ -1,4 +1,4 @@
-FROM node:8.15-slim
+FROM node:11.9.0-slim
  
 # system local config
 RUN true \
